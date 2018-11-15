@@ -4,14 +4,14 @@
 
 .dw{
   font-size: 200px;
-  text-align: right;
+  text-align: center;
 }
 
 
 
 p {
   text-align: center;
-  font-size: "500px";
+  font-size: 500px;
   font-style: italic;
 }
 
