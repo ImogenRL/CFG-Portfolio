@@ -2,14 +2,26 @@
   font-family: sans-serif;
   text-align: center;
 }
-h1 {
-  color: black;
-  font-size: 90
+
+#me {
+  text-align: center;
 }
 
-p {
-  text-align:center;
+#imogen {
+  text-align: center;
 }
+
+#sentence {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1 {
+  color: black;
+  font-size: 90;
+}
+
 body {
   background-color: #E7D9D9;
 }
